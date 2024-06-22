@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Java Developer from Ukraine<br><br>- 🔭 I’m working on pet-projects<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I learn new technologies, travel and do videos for my YouTube</p>
+<p align="left">I'm a Java Developer from Ukraine<br><br>- 🔭 I work in FestCloud<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I learn new technologies, travel and do videos for my YouTube</p>
 
 ###
 
